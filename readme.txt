@@ -1,6 +1,6 @@
 === Update Comments Count ===
 Contributors: blogestudio, pauiglesias
-Tags: comment, comments, update comments, fix, fix comments, count, counter, counters, comment counter, comments counter, posts comments
+Tags: comment, comments, update comment, update comments, fix comment, fix comments, comment count, comments count, comment counter, comment counters, comments counter, comments counters, posts comments
 Requires at least: 3.3.2
 Tested up to: 4.2
 Stable tag: 1.0
@@ -26,9 +26,9 @@ Allows support for existing custom post types, and gives some plugin filters to 
 
 == Frequently Asked Questions ==
 
-= Why I need to update the posts comments counter? =
+= Why do I need to update the posts comments counter? =
 
-Sometimes, when interacting with another plugins that deals with comments, the commments counter originally computed by Wordpress can be wrong. This plugin solves this problem using massively the standar WordPress way.
+Sometimes, when interacting with another plugins that deal with comments, the commments counter originally computed by Wordpress can be wrong. This plugin solves this problem using massively the standar WordPress way.
 
 == Screenshots ==
 
